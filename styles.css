@@ -6,6 +6,21 @@ body {
   margin: 0;
   font-family: system-ui, sans-serif;
   color: black;
-  background-color: white;
+  background-color: black;
 }
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 300px;
+}
+.btn{
+background-color: #111;
+border: none;
+color: #fff;
+text-transform: uppercase;
+padding: 15px;
+border-radius: 5px;
+}
+
 
