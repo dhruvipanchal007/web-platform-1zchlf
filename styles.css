@@ -31,9 +31,9 @@ body {
   background: linear-gradient(to right, #0c002b, #1779ff);
   top: 0px;
   left: 0px;
-  animation: box1, 2s, linear, infinite;
+  animation: animi1, 2s, linear, infinite;
 }
-@keyframes box1 {
+@keyframes animi1 {
   0% {
     background-color: #1779ff;
   }
